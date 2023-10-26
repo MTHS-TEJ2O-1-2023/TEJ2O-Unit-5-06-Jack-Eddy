@@ -6,7 +6,7 @@
 */
 
 // variables
-let distanceToObject:number = 0
+let distanceToObject: number = 0
 
 // setup
 basic.clearScreen()
